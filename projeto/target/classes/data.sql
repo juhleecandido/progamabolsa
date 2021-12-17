@@ -1,0 +1,2 @@
+INSERT INTO PRODUTO(name, description, price) VALUES('Processador','Processador Ryzen 5 5600x','1700.00');
+INSERT INTO PRODUTO(name, description, price) VALUES('Placa de vídeo','Placa de vídeo RTX 3070','7000.00');
